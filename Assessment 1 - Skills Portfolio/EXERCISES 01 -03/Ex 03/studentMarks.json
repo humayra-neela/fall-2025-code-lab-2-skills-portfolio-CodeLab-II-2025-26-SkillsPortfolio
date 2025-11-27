@@ -1,0 +1,14 @@
+{
+  "students": [
+    {"id": "1345", "name": "John Curry", "coursework": [8, 15, 7], "exam": 45},
+    {"id": "2345", "name": "Sam Sturtivant", "coursework": [14, 15, 14], "exam": 77},
+    {"id": "9876", "name": "Lee Scott", "coursework": [17, 11, 16], "exam": 99},
+    {"id": "3724", "name": "Matt Thompson", "coursework": [19, 11, 15], "exam": 81},
+    {"id": "1212", "name": "Ron Herrema", "coursework": [14, 17, 18], "exam": 66},
+    {"id": "8439", "name": "Jake Hobbs", "coursework": [10, 11, 10], "exam": 43},
+    {"id": "2344", "name": "Jo Hyde", "coursework": [6, 15, 10], "exam": 55},
+    {"id": "9384", "name": "Gareth Southgate", "coursework": [5, 6, 8], "exam": 33},
+    {"id": "8327", "name": "Alan Shearer", "coursework": [20, 20, 20], "exam": 100},
+    {"id": "2983", "name": "Les Ferdinand", "coursework": [15, 17, 18], "exam": 92}
+  ]
+}
